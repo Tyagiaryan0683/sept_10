@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Eddy",
+        "last_name": "Snazle",
+        "email": "esnazle0@yelp.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Reamonn",
+        "last_name": "Ellsbury",
+        "email": "rellsbury1@infoseek.co.jp",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Andre",
+        "last_name": "Murrey",
+        "email": "amurrey2@bloglovin.com",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 4,
+        "first_name": "Ezequiel",
+        "last_name": "Garth",
+        "email": "egarth3@bloglines.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Andee",
+        "last_name": "Maciunas",
+        "email": "amaciunas4@engadget.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Sayre",
+        "last_name": "Sprowle",
+        "email": "ssprowle5@google.com.br",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Leyla",
+        "last_name": "Trickey",
+        "email": "ltrickey6@bluehost.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Torrey",
+        "last_name": "Pedracci",
+        "email": "tpedracci7@homestead.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Linzy",
+        "last_name": "Thurlbourne",
+        "email": "lthurlbourne8@booking.com",
+        "gender": "Female"
+    },
+    {
+        "first_name": "Aryan",
+        "last_name": "Snazle",
+        "email": "aryan121@gmail.com",
+        "gender": "Male",
+        "id": 10
+    }
+]
